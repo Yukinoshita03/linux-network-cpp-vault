@@ -7,6 +7,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Yukinoshita03/linux-network-cpp-vault?style=flat-square&label=last%20update)](https://github.com/Yukinoshita03/linux-network-cpp-vault/commits/main)
 [![Repository Size](https://img.shields.io/github/repo-size/Yukinoshita03/linux-network-cpp-vault?style=flat-square)](https://github.com/Yukinoshita03/linux-network-cpp-vault)
 [![Stars](https://img.shields.io/github/stars/Yukinoshita03/linux-network-cpp-vault?style=flat-square)](https://github.com/Yukinoshita03/linux-network-cpp-vault/stargazers)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=flat-square)](LICENSE)
 
 [开始阅读](01-MOC/学习路线.md) · [知识总览](01-MOC/Linux%20网络协议栈与转发面总览.md) · [项目入口](08-Projects) · [面试题](09-Interview/面试题总表.md)
 
@@ -97,6 +98,12 @@ flowchart LR
 ```
 
 提交前请确认：链接可用、命令可复现、结论与实验或权威资料对应。不要把未经整理的收藏链接直接堆进主题笔记。
+
+## 许可证
+
+本仓库的原创笔记、图示与文档采用 [Creative Commons Attribution 4.0 International](LICENSE)（CC BY 4.0）授权。你可以自由分享、修改和用于商业用途，但必须保留恰当的署名并标注修改。
+
+独立发布的可执行代码或完整软件项目，建议在对应目录单独声明适合软件的许可证。
 
 ## 给 Agent 的入口
 
