@@ -115,3 +115,7 @@
 ## 2026-07-12 crystallize | Linux 收发包内存路径与 XDP DNS 快路径
 
 - 新增 `wiki/synthesis/sessions/Linux收发包内存路径与XDP-DNS快路径-20260712.md`，沉淀普通 UDP DNS 收发路径、skb/payload 的复制边界、bridge 广播浅克隆、XDP DNS cache 命中回包流程，以及 Native/Generic XDP 与 tc 的位置差异。
+
+## 2026-07-14 crystallize | 数组算法：二分、双指针与滑动窗口
+
+- 新增 `wiki/synthesis/sessions/数组算法二分双指针与滑动窗口-20260714.md`，整理二分查找、移除元素、有序数组平方、长度最小子数组的循环不变量、常见错误、标准模板与刷题安排。
