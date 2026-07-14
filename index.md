@@ -24,6 +24,7 @@
 - 转发面：[[06-Forwarding-Plane/转发面基础]]
 - 控制面：[[07-Control-Plane/控制面基础]]
 - 项目：[[08-Projects/mini-router 项目总览]]、[[08-Projects/mini-bgp-or-ospf 项目总览]]
+- 项目：[[08-Projects/vnet-dataplane 项目总览]]
 - 面试：[[09-Interview/面试题总表]]
 - 资料：[[10-Resources/资料清单]]
 
@@ -31,6 +32,7 @@
 
 1. [[08-Projects/mini-router 项目总览]]
 2. [[08-Projects/mini-bgp-or-ospf 项目总览]]
+3. [[08-Projects/vnet-dataplane 项目总览]]
 
 ## llm-wiki 兼容区
 

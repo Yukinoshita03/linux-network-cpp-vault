@@ -1,5 +1,22 @@
 # `std::forward`、`std::move` 与 `emplace_back`
 
+## 一句话先理解 `emplace_back`
+
+`emplace_back` 是：
+
+- 在容器尾部**原地构造元素**的接口
+- 参数会被直接转发给元素类型 `T` 的构造函数
+
+最典型的形式是：
+
+```cpp
+std::vector<Person> v;
+v.emplace_back("Tom", 18);
+```
+
+这里不是先在外面造一个 `Person`，再塞进 `vector`；
+而是直接在 `vector` 尾部那块位置上构造出这个 `Person`。
+
 ## 为什么这页重要
 
 这 3 个点是对象语义和容器接口真正落地的地方：

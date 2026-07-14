@@ -484,3 +484,6 @@ write
 - [[04-C-Cpp/C++ std thread 入门：线程入口、join 与参数传递]]
 - [[04-C-Cpp/C++ lambda 入门：本质、捕获与算法配合]]
 - [[04-C-Cpp/C++ 智能指针入门：unique_ptr、shared_ptr 与 weak_ptr]]
+- [[04-C-Cpp/C++ condition_variable 入门：等待、唤醒与生产者消费者]]
+- [[04-C-Cpp/C++ 死锁入门：锁顺序、活锁与常见并发坑]]
+- [[04-C-Cpp/C++ 线程池入门：任务队列、工作线程与条件变量]]

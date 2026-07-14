@@ -360,6 +360,7 @@ void work() {
 7. `condition_variable`
 8. 死锁和常见坑
 9. 线程池是什么
+10. 线程池的工程模型
 
 ---
 
@@ -379,3 +380,7 @@ void work() {
 - [[04-C-Cpp/C++ 智能指针入门：unique_ptr、shared_ptr 与 weak_ptr]]
 - [[04-C-Cpp/C++ 容器与对象语义下一步学习路线]]
 - [[04-C-Cpp/C++ 线程同步入门：竞态条件、mutex 与 lock_guard]]
+- [[04-C-Cpp/C++ condition_variable 入门：等待、唤醒与生产者消费者]]
+- [[04-C-Cpp/C++ 生产者消费者模型入门：mutex、condition_variable 与队列协作]]
+- [[04-C-Cpp/C++ 死锁入门：锁顺序、活锁与常见并发坑]]
+- [[04-C-Cpp/C++ 线程池入门：任务队列、工作线程与条件变量]]
