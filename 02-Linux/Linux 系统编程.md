@@ -7,6 +7,7 @@
 - socket
 - epoll
 - 多线程
+- POSIX pthread
 - 定时器
 - 信号
 - 进程间通信
@@ -17,10 +18,11 @@
 
 ## 学习顺序
 
-1. [[02-Linux/socket 编程]]
-2. [[02-Linux/epoll]]
-3. [[02-Linux/network namespace]]
-4. [[02-Linux/tcpdump]]
+1. [[02-Linux/POSIX pthread 入门：pthread_create、属性与参数传递]]
+2. [[02-Linux/socket 编程]]
+3. [[02-Linux/epoll]]
+4. [[02-Linux/network namespace]]
+5. [[02-Linux/tcpdump]]
 
 ## 项目落点
 

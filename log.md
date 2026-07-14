@@ -116,6 +116,12 @@
 
 - 新增 `wiki/synthesis/sessions/Linux收发包内存路径与XDP-DNS快路径-20260712.md`，沉淀普通 UDP DNS 收发路径、skb/payload 的复制边界、bridge 广播浅克隆、XDP DNS cache 命中回包流程，以及 Native/Generic XDP 与 tc 的位置差异。
 
+## 2026-07-14 crystallize | POSIX pthread_create 入门
+
+- 新增 `02-Linux/POSIX pthread 入门：pthread_create、属性与参数传递.md`，沉淀 `pthread_create` 四个参数、`pthread_attr_t` 生命周期、线程入口函数指针、`void*` 参数转换和常见生命周期风险。
+- 新增 `wiki/synthesis/sessions/POSIX-pthread-create学习结晶-20260714.md`，记录本轮学习中的核心洞见、术语纠偏、当前掌握状态与下一步。
+- 更新 `02-Linux/Linux 系统编程.md`、`04-C-Cpp/C++ std thread 入门：线程入口、join 与参数传递.md` 和 `index.md`，将 POSIX pthread 接入现有 Linux/C++ 学习路径。
+
 ## 2026-07-14 organize | 算法学习模块
 
 - 新增 `11-Algorithms/算法学习目录.md`，建立专题顺序、复盘模板、复习节奏和《代码随想录》/Hot 100 的分工。

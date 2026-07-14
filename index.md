@@ -17,7 +17,7 @@
 
 ## 主题入口
 
-- Linux 系统编程：[[02-Linux/Linux 系统编程]]
+- Linux 系统编程：[[02-Linux/Linux 系统编程]]、[[02-Linux/POSIX pthread 入门：pthread_create、属性与参数传递]]
 - 网络基础：[[03-Networking/TCP-IP 基础]]
 - C/C++：[[04-C-Cpp/C 与 C++ 在转发面中的分工]]
 - 算法：[[11-Algorithms/算法学习目录]]
