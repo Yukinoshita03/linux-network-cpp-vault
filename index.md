@@ -20,6 +20,7 @@
 - Linux 系统编程：[[02-Linux/Linux 系统编程]]
 - 网络基础：[[03-Networking/TCP-IP 基础]]
 - C/C++：[[04-C-Cpp/C 与 C++ 在转发面中的分工]]
+- 算法：[[11-Algorithms/算法学习目录]]
 - 内核网络栈：[[05-Kernel-Networking/Linux 内核网络栈地图]]
 - 转发面：[[06-Forwarding-Plane/转发面基础]]
 - 控制面：[[07-Control-Plane/控制面基础]]
